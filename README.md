@@ -1,2 +1,0 @@
-# Haemophilia
-Front-end project
